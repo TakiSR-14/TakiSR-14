@@ -46,9 +46,9 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/takisr-14/takisr-14/main/Takalani%20Certificate.pdf.png" alt="Takalani Certificate" width="300" height="200"/>
-  <img src="https://raw.githubusercontent.com/takisr-14/takisr-14/main/Taki%20Renqe%20(TinkerThings%20-%20AI%20for%20Sustainability).pdf.png" alt="AI for Sustainability Certificate" width="300" height="200"/>
-  <img src="https://raw.githubusercontent.com/takisr-14/takisr-14/main/Takalani%20Renqe%20_%20Microsoft%20Learn.pdf.png" alt="Microsoft Learn Certificate" width="300" height="200"/>
+  <img src="https://github.com/TakiSR-14/TakiSR-14/blob/main/takisr-14/Takalani%20Certificate.pdf.png" alt="Takalani Certificate" width="300" height="200"/>
+  <img src="https://github.com/TakiSR-14/TakiSR-14/blob/main/takisr-14/Taki%20Renqe%20(TinkerThings%20-%20AI%20for%20Sustainability).pdf.png" alt="AI for Sustainability Certificate" width="300" height="200"/>
+  <img src="https://github.com/TakiSR-14/TakiSR-14/blob/main/takisr-14/Takalani%20Renqe%20_%20Microsoft%20Learn.pdf.png" alt="Microsoft Learn Certificate" width="300" height="200"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takisr-14&show_icons=true&locale=en&layout=compact" alt="takisr-14" /></p>
